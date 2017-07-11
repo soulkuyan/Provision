@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Provision</string>
+    <string name="select_language">选择语言</string>
+    <string name="next">下一步</string>
+    <string name="wlan_setting">WLAN设置</string>
+    <string name="previous">上一步</string>
+    <string name="skip">跳过</string>
+
+    <string name="large_text">Large Text</string>
+    <string name="signal_strength">信号强度</string>
+    <string name="security_level">安全性</string>
+    <string name="password">密码</string>
+    <string name="show_password">显示密码</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">忘记</string>
+    <string name="cancel">取消</string>
+    <string name="conn_status">连接状态</string>
+    <string name="ip_address">IP地址</string>
+
+    <string name="connecting">连接中...</string>
+    <string name="connected">已连接</string>
+    <string name="use">通过</string>
+    <string name="protect">进行保护</string>
+    <string name="add_other_network">添加其他网络</string>
+    <string name="open_bluetooth">开启蓝牙</string>
+
+    <string name="add_network">新增网络</string>
+    <string name="network_nane">网络名称</string>
+    <string name="input_SSID">输入SSID</string>
+    <string name="nothing">无</string>
+    <string name="wep">WEP</string>
+    <string name="wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="eap">802.1x EAP</string>
+
+    <string name="wifi_no_level">无信号</string>
+    <string name="wifi_weak_level">弱</string>
+    <string name="wifi_strong_level">强</string>
+    <string name="wifi_stronger_level">较强</string>
+    <string name="wifi_strongest_level">极强</string>
+
+    <string name="finish_settings">完成设置</string>
+</resources>

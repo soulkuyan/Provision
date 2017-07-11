@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Provision</string>
+    <string name="select_language">Select language</string>
+    <string name="next">next</string>
+    <string name="wlan_setting">WLAN settings</string>
+    <string name="previous">Back</string>
+    <string name="skip">Skip</string>
+
+    <string name="large_text">Large Text</string>
+    <string name="signal_strength">Signal strength</string>
+    <string name="security_level">Signal level</string>
+    <string name="password">Passwork</string>
+    <string name="show_password">Show password</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Forget</string>
+    <string name="cancel">Cancel</string>
+    <string name="conn_status">Status</string>
+    <string name="ip_address">IP Address</string>
+
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="use">Use</string>
+    <string name="protect">Protected</string>
+    <string name="add_other_network">Add other network</string>
+    <string name="open_bluetooth">Open Bluetooth</string>
+
+    <string name="add_network">Add network</string>
+    <string name="network_nane">Network name</string>
+    <string name="input_SSID">Please input SSID</string>
+    <string name="nothing">Nothing</string>
+    <string name="wep">WEP</string>
+    <string name="wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="eap">802.1x EAP</string>
+
+    <string name="wifi_no_level">o signal</string>
+    <string name="wifi_weak_level">weak</string>
+    <string name="wifi_strong_level">Strong</string>
+    <string name="wifi_stronger_level">Preferably</string>
+    <string name="wifi_strongest_level">Excellent</string>
+
+    <string name="finish_settings">Finish Settings</string>
+</resources>
